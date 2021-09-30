@@ -2,7 +2,7 @@
 
 * I'm 23 years old with 3+ years experience in Full Stack Developer.
 * I'm passionate about technology, always looking for new knowledge in front-end, back-end and native and hybrid mobile development.
-* Noadays I'm studing about concepts of design patterns, clean architecture, and clean code.
+* Currently I'm studing about concepts of design patterns, clean architecture, and clean code.
 
 ##
 
