@@ -1,6 +1,6 @@
 ## Hello!! I'm Anderson Farias 👋
 
-* I'm 23 years old with 3+ years experience in Full Stack Developer.
+* I'm 23 years old with 4 years experience in Full Stack Developer.
 * I'm passionate about technology, always looking for new knowledge in front-end, back-end and native and hybrid mobile development.
 * Currently I'm studing about concepts of design patterns, clean architecture, SOLID principles and clean code.
 
@@ -27,6 +27,7 @@
   <img align="center" alt="andfarias-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="andfarias-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="andfarias-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="andfarias-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 </div>
   
 ##
