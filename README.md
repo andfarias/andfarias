@@ -1,6 +1,6 @@
 ## Hello!! I'm Anderson Farias 👋
 
-* I'm 23 years old with 4 years experience in Full Stack Developer.
+* I'm 24 years old with 4 years experience in Full Stack Developer.
 * I'm passionate about technology, always looking for new knowledge in front-end, back-end and native and hybrid mobile development.
 * Currently I'm studing about concepts of design patterns, clean architecture, SOLID principles and clean code.
 
